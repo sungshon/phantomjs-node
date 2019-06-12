@@ -25,7 +25,7 @@
     "node": ">=8"
   },
   "dependencies": {
-    "phantomjs-prebuilt": "^2.1.16",
+    "phantomjs-prebuilt": "sungshon/phantomjs",
     "split": "^1.0.1",
     "winston": "^3.2.1"
   },
